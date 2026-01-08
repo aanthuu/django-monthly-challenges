@@ -10,6 +10,9 @@ As a fresher learning Python Backend Development, I wanted to move beyond basic 
 
 This project doesn't use a database yet (I'm learning that next!). Instead, it focuses heavily on **URL Routing** and **Views logic** to handle user requests dynamically.
 
+<img width="1893" height="856" alt="Screenshot 2026-01-08 113828" src="https://github.com/user-attachments/assets/b4f36580-80e8-4021-b667-41df95627ebd" />
+<img width="1885" height="825" alt="Screenshot 2026-01-08 113858" src="https://github.com/user-attachments/assets/bf79a6f7-7fdc-4fd3-9605-1c4723ea180e" />
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
